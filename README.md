@@ -51,5 +51,5 @@ Servidor 100 Mbps: |	0.87 |	7.21
 Servidores 10 Mbps: |	2.5 |	17.8 
 Servidores heterogéneos: |	6.2 |	48.8 
 
-![Grafica de velocidades](https://github.com/IngenieroFiestero/FTPtorrent/grafico.jpeg)
+![Grafica de velocidades](https://github.com/IngenieroFiestero/FTPtorrent/blob/master/grafico.jpg)
 
